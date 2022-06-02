@@ -1,0 +1,120 @@
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\bin\x64\Release\Helpers\Helpers.xr.xml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\bin\x64\Release\Helpers\Controls\Caption.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\bin\x64\Release\Helpers\Controls\ColorPicker.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\bin\x64\Release\Helpers\Controls\HamburgerMenu.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\bin\x64\Release\Helpers\Controls\Header.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\bin\x64\Release\Helpers\Controls\HelpSlider.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\bin\x64\Release\Helpers\Controls\ProgressOverlay.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\bin\x64\Release\Helpers\Controls\RangeSlider.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\bin\x64\Release\Helpers.dll
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\bin\x64\Release\Helpers.pdb
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\bin\x64\Release\Helpers.pri
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\Caption.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\Caption.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\ColorPicker.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\ColorPicker.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\HamburgerMenu.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\HamburgerMenu.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\Header.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\Header.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\HelpSlider.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\HelpSlider.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\ProgressOverlay.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\ProgressOverlay.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\RangeSlider.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\RangeSlider.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\XamlTypeInfo.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\Caption.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\ColorPicker.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\HamburgerMenu.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\Header.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\HelpSlider.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\ProgressOverlay.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\RangeSlider.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\Caption.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\ColorPicker.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\HamburgerMenu.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\Header.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\HelpSlider.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\ProgressOverlay.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Controls\RangeSlider.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\XamlSaveStateFile.xml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Helpers.dll
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Helpers.pdb
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\priconfig.xml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\priconfig.xml.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\unfiltered.layout.resfiles
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\unfiltered.layout.resfiles.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\filtered.layout.resfiles
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\filtered.layout.resfiles.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\excluded.layout.resfiles
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\excluded.layout.resfiles.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\resources.resfiles
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\resources.resfiles.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\pri.resfiles
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\pri.resfiles.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\qualifiers.txt
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\qualifiers.txt.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\Flashback-master\Helpers\obj\x64\Release\Helpers.csproj.AssemblyReference.cache
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\bin\x64\Release\Helpers\Helpers.xr.xml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\bin\x64\Release\Helpers\Controls\Caption.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\bin\x64\Release\Helpers\Controls\ColorPicker.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\bin\x64\Release\Helpers\Controls\HamburgerMenu.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\bin\x64\Release\Helpers\Controls\Header.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\bin\x64\Release\Helpers\Controls\HelpSlider.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\bin\x64\Release\Helpers\Controls\ProgressOverlay.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\bin\x64\Release\Helpers\Controls\RangeSlider.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\bin\x64\Release\Helpers.dll
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\bin\x64\Release\Helpers.pdb
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\bin\x64\Release\Helpers.pri
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Helpers.csproj.AssemblyReference.cache
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\Caption.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\Caption.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\ColorPicker.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\ColorPicker.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\HamburgerMenu.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\HamburgerMenu.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\Header.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\Header.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\HelpSlider.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\HelpSlider.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\ProgressOverlay.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\ProgressOverlay.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\RangeSlider.g.i.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\RangeSlider.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\XamlTypeInfo.g.cs
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\Caption.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\ColorPicker.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\HamburgerMenu.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\Header.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\HelpSlider.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\ProgressOverlay.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\RangeSlider.xaml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\Caption.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\ColorPicker.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\HamburgerMenu.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\Header.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\HelpSlider.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\ProgressOverlay.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Controls\RangeSlider.xbf
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\XamlSaveStateFile.xml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Helpers.dll
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\Helpers.pdb
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\priconfig.xml
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\priconfig.xml.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\unfiltered.layout.resfiles
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\unfiltered.layout.resfiles.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\filtered.layout.resfiles
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\filtered.layout.resfiles.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\excluded.layout.resfiles
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\excluded.layout.resfiles.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\resources.resfiles
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\resources.resfiles.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\pri.resfiles
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\pri.resfiles.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\qualifiers.txt
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\qualifiers.txt.intermediate
+C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\obj\x64\Release\MultipleQualifiersPerDimensionFound.txt

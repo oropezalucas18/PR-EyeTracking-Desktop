@@ -1,0 +1,340 @@
+﻿++Solution 'Flashback' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:Flashback.sln
+++Helpers ‎(Universal Windows)
+i:{00000000-0000-0000-0000-000000000000}:Helpers
+++Properties
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\properties\
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\properties\
+++References
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:
+++Microsoft.NETCore.UniversalWindowsPlatform
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:
+++Universal Windows
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:
+++Windows Mobile Extensions for the UWP
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:
+++Controls
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\
+++Caption.xaml
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\caption.xaml
+++ColorPicker.xaml
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\colorpicker.xaml
+++HamburgerMenu.xaml
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\hamburgermenu.xaml
+++Header.xaml
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\header.xaml
+++HelpSlider.xaml
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\helpslider.xaml
+++ProgressOverlay.xaml
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\progressoverlay.xaml
+++RangeSlider.xaml
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\rangeslider.xaml
+++RangeSlider.xaml.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\rangeslider.xaml.cs
+++Converters
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\converters\
+++BooleanNegationConverter.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\converters\booleannegationconverter.cs
+++BooleanToVisibilityConverter.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\converters\booleantovisibilityconverter.cs
+++ColorStringConverter.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\converters\colorstringconverter.cs
+++ComboBoxItemToStringConverter.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\converters\comboboxitemtostringconverter.cs
+++DoubleToIntConverter.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\converters\doubletointconverter.cs
+++NullableBooleanToBooleanConverter.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\converters\nullablebooleantobooleanconverter.cs
+++SecondsToTimeSpanStringConverter.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\converters\secondstotimespanstringconverter.cs
+++StringToUpperCaseConverter.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\converters\stringtouppercaseconverter.cs
+++ValueToFontFamilyConverter.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\converters\valuetofontfamilyconverter.cs
+++ValueToStringConverter.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\converters\valuetostringconverter.cs
+++Crypthography
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\crypthography\
+++Aes.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\crypthography\aes.cs
+++Dialogs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\dialogs\
+++Error.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\dialogs\error.cs
+++Monetization
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\monetization\
+++InAppPurchaseHelper.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\monetization\inapppurchasehelper.cs
+++Navigation
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\navigation\
+++Storage
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\storage\
+++ViewManagement
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\viewmanagement\
+++ViewModel
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\viewmodel\
+++Web
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\web\
+++JavaScriptHelper.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\web\javascripthelper.cs
+++AssemblyInfo.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\properties\assemblyinfo.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\properties\assemblyinfo.cs
+++Helpers.rd.xml
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\properties\helpers.rd.xml
+++Caption.xaml.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\caption.xaml.cs
+++ColorPicker.xaml.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\colorpicker.xaml.cs
+++HamburgerMenu.xaml.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\hamburgermenu.xaml.cs
+++Header.xaml.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\header.xaml.cs
+++HelpSlider.xaml.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\helpslider.xaml.cs
+++ProgressOverlay.xaml.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\controls\progressoverlay.xaml.cs
+++NavigationLink.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\navigation\navigationlink.cs
+++NavigationService.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\navigation\navigationservice.cs
+++CredentialLocker.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\storage\credentiallocker.cs
+++FutureAccessListHelper.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\storage\futureaccesslisthelper.cs
+++JsonHelper.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\storage\jsonhelper.cs
+++LocalSettingsHelper.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\storage\localsettingshelper.cs
+++RoamingSettingsHelper.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\storage\roamingsettingshelper.cs
+++StatusBarHelper.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\viewmanagement\statusbarhelper.cs
+++DelegateCommand.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\viewmodel\delegatecommand.cs
+++DispatcherHelper.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\viewmodel\dispatcherhelper.cs
+++SingletonViewModelBase.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\viewmodel\singletonviewmodelbase.cs
+++ViewModelBase.cs
+i:{09390468-e0fd-4698-8f32-331be306c9b8}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\helpers\viewmodel\viewmodelbase.cs
+++Flashback ‎(Universal Windows)
+i:{00000000-0000-0000-0000-000000000000}:Flashback
+++Assets
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\
+++Models
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\models\
+++Clip.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\models\clip.cs
+++ClipsDetailDataTemplateSelector.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\models\clipsdetaildatatemplateselector.cs
+++MediaFile.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\models\mediafile.cs
+++Project.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\models\project.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\viewmodels\projectviewmodel\project.cs
+++SlideshowClip.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\models\slideshowclip.cs
+++SlideshowImage.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\models\slideshowimage.cs
+++Track.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\models\track.cs
+++VideoClip.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\models\videoclip.cs
+++Pages
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\pages\
+++HelpPage.xaml
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\pages\helppage.xaml
+++ProjectPage.xaml
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\pages\projectpage.xaml
+++StartPage.xaml
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\pages\startpage.xaml
+++ViewModels
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\viewmodels\
+++ProjectViewModel
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\viewmodels\projectviewmodel\
+++StartPageViewModel.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\viewmodels\startpageviewmodel.cs
+++Views
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\
+++Project
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\project\
+++ClipsView.xaml
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\project\clipsview.xaml
+++EffectsView.xaml
+++MusicView.xaml
+++MusicView.xaml.cs
+++PreviewView.xaml
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\project\previewview.xaml
+++SaveView.xaml
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\project\saveview.xaml
+++SlideshowClipView.xaml
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\project\slideshowclipview.xaml
+++TitlesView.xaml
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\project\titlesview.xaml
+++VideoClipView.xaml
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\project\videoclipview.xaml
+++FeedbackContentDialog.xaml
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\feedbackcontentdialog.xaml
+++App.xaml
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\app.xaml
+++App.xaml.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\app.xaml.cs
+++ApplicationInsights.config
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\applicationinsights.config
+++Flashback_StoreKey.pfx
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\flashback_storekey.pfx
+++Flashback_TemporaryKey.pfx
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\flashback_temporarykey.pfx
+++Package.appxmanifest
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\package.appxmanifest
+++Package.StoreAssociation.xml
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\package.storeassociation.xml
+++Default.rd.xml
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\properties\default.rd.xml
+++Helpers
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:
+++Microsoft.ApplicationInsights
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:
+++Microsoft.ApplicationInsights.PersistenceChannel
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:
+++Microsoft.ApplicationInsights.WindowsApps
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:
+++Fonts
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\fonts\
+++Tiles
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\
+++Videos
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\videos\
+++HelpPage.xaml.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\pages\helppage.xaml.cs
+++ProjectPage.xaml.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\pages\projectpage.xaml.cs
+++StartPage.xaml.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\pages\startpage.xaml.cs
+++Clips.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\viewmodels\projectviewmodel\clips.cs
+++Composition.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\viewmodels\projectviewmodel\composition.cs
+++Effects.cs
+++Music.cs
+++ProjectViewModel.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\viewmodels\projectviewmodel\projectviewmodel.cs
+++ClipsView.xaml.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\project\clipsview.xaml.cs
+++EffectsView.xaml.cs
+++PreviewView.xaml.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\project\previewview.xaml.cs
+++SaveView.xaml.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\project\saveview.xaml.cs
+++SlideshowClipView.xaml.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\project\slideshowclipview.xaml.cs
+++TitlesView.xaml.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\project\titlesview.xaml.cs
+++VideoClipView.xaml.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\project\videoclipview.xaml.cs
+++FeedbackContentDialog.xaml.cs
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\views\feedbackcontentdialog.xaml.cs
+++Flashback.ttf
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\fonts\flashback.ttf
+++SignikaBold.ttf
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\fonts\signikabold.ttf
+++Logo.svg
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\logo.svg
+++NewStoreLogo.scale-100.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\newstorelogo.scale-100.png
+++NewStoreLogo.scale-125.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\newstorelogo.scale-125.png
+++NewStoreLogo.scale-150.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\newstorelogo.scale-150.png
+++NewStoreLogo.scale-200.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\newstorelogo.scale-200.png
+++NewStoreLogo.scale-400.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\newstorelogo.scale-400.png
+++SplashScreen.scale-100.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\splashscreen.scale-100.png
+++SplashScreen.scale-125.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\splashscreen.scale-125.png
+++SplashScreen.scale-150.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\splashscreen.scale-150.png
+++SplashScreen.scale-200.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\splashscreen.scale-200.png
+++SplashScreen.scale-400.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\splashscreen.scale-400.png
+++Square150x150Logo.scale-100.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square150x150logo.scale-100.png
+++Square150x150Logo.scale-125.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square150x150logo.scale-125.png
+++Square150x150Logo.scale-150.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square150x150logo.scale-150.png
+++Square150x150Logo.scale-200.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square150x150logo.scale-200.png
+++Square150x150Logo.scale-400.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square150x150logo.scale-400.png
+++Square310x310Logo.scale-100.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square310x310logo.scale-100.png
+++Square310x310Logo.scale-125.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square310x310logo.scale-125.png
+++Square310x310Logo.scale-150.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square310x310logo.scale-150.png
+++Square310x310Logo.scale-200.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square310x310logo.scale-200.png
+++Square310x310Logo.scale-400.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square310x310logo.scale-400.png
+++Square44x44Logo.scale-100.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.scale-100.png
+++Square44x44Logo.scale-125.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.scale-125.png
+++Square44x44Logo.scale-150.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.scale-150.png
+++Square44x44Logo.scale-200.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.scale-200.png
+++Square44x44Logo.scale-400.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.scale-400.png
+++Square44x44Logo.targetsize-16.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.targetsize-16.png
+++Square44x44Logo.targetsize-16_altform-unplated.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.targetsize-16_altform-unplated.png
+++Square44x44Logo.targetsize-24.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.targetsize-24.png
+++Square44x44Logo.targetsize-24_altform-unplated.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.targetsize-24_altform-unplated.png
+++Square44x44Logo.targetsize-256.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.targetsize-256.png
+++Square44x44Logo.targetsize-256_altform-unplated.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.targetsize-256_altform-unplated.png
+++Square44x44Logo.targetsize-32.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.targetsize-32.png
+++Square44x44Logo.targetsize-32_altform-unplated.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.targetsize-32_altform-unplated.png
+++Square44x44Logo.targetsize-48.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.targetsize-48.png
+++Square44x44Logo.targetsize-48_altform-unplated.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square44x44logo.targetsize-48_altform-unplated.png
+++Square71x71Logo.scale-100.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square71x71logo.scale-100.png
+++Square71x71Logo.scale-125.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square71x71logo.scale-125.png
+++Square71x71Logo.scale-150.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square71x71logo.scale-150.png
+++Square71x71Logo.scale-200.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square71x71logo.scale-200.png
+++Square71x71Logo.scale-400.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\square71x71logo.scale-400.png
+++Wide310x150Logo.scale-100.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\wide310x150logo.scale-100.png
+++Wide310x150Logo.scale-125.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\wide310x150logo.scale-125.png
+++Wide310x150Logo.scale-150.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\wide310x150logo.scale-150.png
+++Wide310x150Logo.scale-200.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\wide310x150logo.scale-200.png
+++Wide310x150Logo.scale-400.png
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\tiles\wide310x150logo.scale-400.png
+++help.mp4
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\videos\help.mp4
+++start.mp4
+i:{9078d034-30f3-4a87-9496-81c948c8e497}:c:\users\lucas oropeza\documents\pr-eye tracking\flashback-master\flashback\assets\videos\start.mp4

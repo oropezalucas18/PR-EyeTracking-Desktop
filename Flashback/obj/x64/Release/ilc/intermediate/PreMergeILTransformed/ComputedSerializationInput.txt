@@ -1,0 +1,3 @@
+"/t:Flashback.Models.Clip,Flashback,json"
+"/t:Flashback.Models.VideoClip,Flashback,json"
+"/t:Flashback.Models.SlideshowClip,Flashback,json"
