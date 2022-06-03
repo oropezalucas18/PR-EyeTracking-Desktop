@@ -4,8 +4,8 @@ Pages\ProjectPage.xbf
 Pages\StartPage.xbf
 Views\FeedbackContentDialog.xbf
 Views\Project\ClipsView.xbf
+Views\Project\HeatmapsView.xbf
 Views\Project\PreviewView.xbf
 Views\Project\SaveView.xbf
 Views\Project\SlideshowClipView.xbf
-Views\Project\TitlesView.xbf
 Views\Project\VideoClipView.xbf

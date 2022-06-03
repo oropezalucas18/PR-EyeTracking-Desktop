@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+m7rREnALEYQGdKequljb+2nEjwpp1FU2d4Qj1lEM1O2Q1MyUari+8hYIoJ5ZG8rzjo16hOgtnwjiuC+mI4jEw==",
+  "dgSpecHash": "GoWYcCz/Al4GVR1esRFWHKB/8azamPhVJ0S75/4DvBQNhW6zuGm3HWhBUNg1so8kjna76cyinKu90Ua/PDd30A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucas Oropeza\\Documents\\PR-EYE TRACKING\\PR-EYE TRACKING HEATMAPS\\Flashback\\Flashback.csproj",
+  "projectFilePath": "C:\\Users\\Lucas Oropeza\\Desktop\\EYE TRACKING DESKTOP\\PR-EyeTracking-Desktop\\Flashback\\Flashback.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas Oropeza\\.nuget\\packages\\microsoft.applicationinsights\\1.0.0\\microsoft.applicationinsights.1.0.0.nupkg.sha512",
     "C:\\Users\\Lucas Oropeza\\.nuget\\packages\\microsoft.applicationinsights.persistencechannel\\1.0.0\\microsoft.applicationinsights.persistencechannel.1.0.0.nupkg.sha512",

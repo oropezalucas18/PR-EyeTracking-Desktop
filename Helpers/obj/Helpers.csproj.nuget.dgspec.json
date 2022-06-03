@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas Oropeza\\Documents\\PR-EYE TRACKING\\PR-EYE TRACKING HEATMAPS\\Helpers\\Helpers.csproj": {}
+    "C:\\Users\\Lucas Oropeza\\Desktop\\EYE TRACKING DESKTOP\\PR-EyeTracking-Desktop\\Helpers\\Helpers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas Oropeza\\Documents\\PR-EYE TRACKING\\PR-EYE TRACKING HEATMAPS\\Helpers\\Helpers.csproj": {
+    "C:\\Users\\Lucas Oropeza\\Desktop\\EYE TRACKING DESKTOP\\PR-EyeTracking-Desktop\\Helpers\\Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas Oropeza\\Documents\\PR-EYE TRACKING\\PR-EYE TRACKING HEATMAPS\\Helpers\\Helpers.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas Oropeza\\Desktop\\EYE TRACKING DESKTOP\\PR-EyeTracking-Desktop\\Helpers\\Helpers.csproj",
         "projectName": "Helpers",
-        "projectPath": "C:\\Users\\Lucas Oropeza\\Documents\\PR-EYE TRACKING\\PR-EYE TRACKING HEATMAPS\\Helpers\\Helpers.csproj",
+        "projectPath": "C:\\Users\\Lucas Oropeza\\Desktop\\EYE TRACKING DESKTOP\\PR-EyeTracking-Desktop\\Helpers\\Helpers.csproj",
         "packagesPath": "C:\\Users\\Lucas Oropeza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas Oropeza\\Documents\\PR-EYE TRACKING\\PR-EYE TRACKING HEATMAPS\\Helpers\\obj\\",
+        "outputPath": "C:\\Users\\Lucas Oropeza\\Desktop\\EYE TRACKING DESKTOP\\PR-EyeTracking-Desktop\\Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

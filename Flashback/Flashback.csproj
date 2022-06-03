@@ -152,8 +152,8 @@
     <Compile Include="Views\Project\SlideshowClipView.xaml.cs">
       <DependentUpon>SlideshowClipView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Views\Project\TitlesView.xaml.cs">
-      <DependentUpon>TitlesView.xaml</DependentUpon>
+    <Compile Include="Views\Project\HeatmapsView.xaml.cs">
+      <DependentUpon>HeatmapsView.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\Project\VideoClipView.xaml.cs">
       <DependentUpon>VideoClipView.xaml</DependentUpon>
@@ -210,7 +210,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Views\Project\TitlesView.xaml">
+    <Page Include="Views\Project\HeatmapsView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

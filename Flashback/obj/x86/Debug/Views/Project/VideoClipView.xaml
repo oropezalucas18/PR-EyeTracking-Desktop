@@ -1,0 +1,97 @@
+﻿<UserControl x:ConnectionId='1'
+    x:Class="Flashback.Views.VideoClipView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Flashback.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:controls="using:Helpers.Controls"
+    xmlns:converters="using:Helpers.Converters"
+    mc:Ignorable="d"
+    d:DesignHeight="500"
+    d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <!--SecondsToTimeSpanStringConverter-->
+        <converters:SecondsToTimeSpanStringConverter x:Key="SecondsToTimeSpanStringConverter"/>
+    </UserControl.Resources>
+
+    <Grid
+        Transitions="{StaticResource EntranceTransitionCollection}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" MaxHeight="272"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <!--preview element-->
+        <Grid 
+            MaxWidth="426.7"
+            MaxHeight="240"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Stretch"
+            Background="{StaticResource SystemControlBackgroundChromeMediumBrush}"
+            Margin="{StaticResource PagePadding}"
+            BorderBrush="{StaticResource MediumBackgroundBrush}"
+            BorderThickness="4">
+            <MediaElement x:ConnectionId='6'
+                x:Name="PreviewMediaElement"
+                                                   
+                AutoPlay="False"
+                                                             
+                                                                             
+                AreTransportControlsEnabled="True"
+                Stretch="Uniform"
+                                                                 >
+                <MediaElement.TransportControls>
+                    <MediaTransportControls Style="{StaticResource NoSeekMediaTransportControlsStyle}"/>
+                </MediaElement.TransportControls>
+            </MediaElement>
+            <controls:ProgressOverlay x:ConnectionId='7'
+                                                                                        
+                BackgroundOpacity="1"
+                />
+        </Grid>
+
+        <!--properties-->
+        <ScrollViewer
+            Grid.Row="1"
+            VerticalScrollMode="Auto"
+            VerticalScrollBarVisibility="Auto">
+            <StackPanel
+                Padding="{StaticResource PagePadding}">
+                
+                <StackPanel Orientation="Horizontal">
+                    <controls:Caption
+                        CaptionText="Start time:"
+                        CaptionMargin="0,0,12,0"/>
+                    <TextBlock x:ConnectionId='3'
+                                                                                                                                     />
+                    <controls:Caption
+                        CaptionText="Duration:"
+                        CaptionMargin="24,0,12,0"/>
+                    <TextBlock x:ConnectionId='4'
+                                                                                                                                    />
+                    <controls:Caption
+                        CaptionText="End time:"
+                        CaptionMargin="24,0,12,0"/>
+                    <TextBlock x:ConnectionId='5'
+                                                                                                                                   />
+                </StackPanel>
+                
+                <!--trimming-->
+                <controls:RangeSlider x:ConnectionId='2'
+                    x:Name="TrimRangeSlider"
+                                                                     
+                                                                 
+                    Minimum="0"
+                                                                              
+                    MinimumRange="0.2"
+                    StepFrequency="0.1"
+                    ThumbTooltipValueConverter="{StaticResource SecondsToTimeSpanStringConverter}"                 
+                    Margin="0,12,0,0"
+                                                                           />
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>
+

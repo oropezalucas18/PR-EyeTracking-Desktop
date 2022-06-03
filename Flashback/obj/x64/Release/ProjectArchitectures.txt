@@ -1,2 +1,2 @@
-C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\Flashback.csproj;x64
-C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\Helpers.csproj;x64
+C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\Flashback.csproj;x64
+C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Helpers\Helpers.csproj;x64

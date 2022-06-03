@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pvt6WEgb9Fmb+zZdhDFdH5/S4Wd0rXqtBKcYEasqsXiZWWT7msvH7SG81VS8gq2o18z+EqXdIaXEmWqyU7WWmA==",
+  "dgSpecHash": "9kYQ1qPAXREJ96mpPoLf43ZzQd4oJKYmcHjdJpzz3Lhe/N3zTwh2h5QQukGqgLbBsNCQi5s9ejIoK71HObMCFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucas Oropeza\\Documents\\PR-EYE TRACKING\\PR-EYE TRACKING HEATMAPS\\Helpers\\Helpers.csproj",
+  "projectFilePath": "C:\\Users\\Lucas Oropeza\\Desktop\\EYE TRACKING DESKTOP\\PR-EyeTracking-Desktop\\Helpers\\Helpers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas Oropeza\\.nuget\\packages\\microsoft.csharp\\4.0.0\\microsoft.csharp.4.0.0.nupkg.sha512",
     "C:\\Users\\Lucas Oropeza\\.nuget\\packages\\microsoft.netcore\\5.0.0\\microsoft.netcore.5.0.0.nupkg.sha512",

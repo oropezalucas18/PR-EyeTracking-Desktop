@@ -5144,6 +5144,7 @@ Dynamic,Method,"System.Void Flashback.Pages.ProjectPage.<>n__0(Windows.UI.Xaml.N
 Dynamic,Method,"System.Void Flashback.Pages.StartPage..ctor()"
 Dynamic,Method,"System.Void Flashback.Pages.StartPage.StartPage_Loaded(System.Object sender, Windows.UI.Xaml.RoutedEventArgs e)"
 Dynamic,Method,"System.Void Flashback.Pages.StartPage.OnNavigatedTo(Windows.UI.Xaml.Navigation.NavigationEventArgs e)"
+Dynamic,Method,"System.Void Flashback.Pages.StartPage.Button_Click(System.Object sender, Windows.UI.Xaml.RoutedEventArgs e)"
 Dynamic,Method,"System.Void Flashback.Pages.StartPage.InitializeComponent()"
 Dynamic,Method,"System.Void Flashback.Pages.StartPage.Connect(System.Int32 connectionId, System.Object target)"
 Dynamic,Method,"Windows.UI.Xaml.Markup.IComponentConnector Flashback.Pages.StartPage.GetBindingConnector(System.Int32 connectionId, System.Object target)"
