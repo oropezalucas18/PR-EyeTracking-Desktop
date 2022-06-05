@@ -154,10 +154,10 @@
             <CommandBar
                 Grid.Row="1">
                 <CommandBar.PrimaryCommands>
-                    <AppBarButton x:ConnectionId='11' x:Name="AddAppBarButton" Icon="Add" Label="Add"                                 >
+                    <AppBarButton x:ConnectionId='11' x:Name="AddAppBarButton" Icon="Add" Label="Añadir"                                 >
                         <AppBarButton.Flyout>
                             <MenuFlyout>
-                                <MenuFlyoutItem x:ConnectionId='12' Text="Slideshow"                                                   />
+                                <MenuFlyoutItem x:ConnectionId='12' Text="Secuencia"                                                   />
                                 <MenuFlyoutSeparator/>
                                 <MenuFlyoutItem x:ConnectionId='13' Text="Video"                                                />
                             </MenuFlyout>

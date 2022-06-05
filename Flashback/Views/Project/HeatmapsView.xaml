@@ -37,35 +37,8 @@
                             <!--title-->
                             <controls:Caption
                                 CaptionMargin="0,12,0,0"
-                                CaptionText="Heatmap"/>
+                                CaptionText="Mapa de calor"/>
                         </Grid>
-                    </StackPanel>
-                </ScrollViewer>
-            </PivotItem>
-            
-            <!--closing titles-->
-            <PivotItem>
-                <ScrollViewer
-                    HorizontalScrollBarVisibility="Disabled"
-                    VerticalScrollBarVisibility="Auto"
-                    Padding="12,0,24,12">
-                    <StackPanel>
-                        <Grid>
-                            <Grid.RowDefinitions>
-                                <RowDefinition Height="Auto"/>
-                                <RowDefinition Height="Auto"/>
-                            </Grid.RowDefinitions>
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="Auto"/>
-                                <ColumnDefinition Width="Auto"/>
-                            </Grid.ColumnDefinitions>
-
-                            <!--title-->
-                            <controls:Caption
-                                CaptionMargin="0,12,0,0"
-                                CaptionText="Heatmap"/>
-                        </Grid>
-
                     </StackPanel>
                 </ScrollViewer>
             </PivotItem>

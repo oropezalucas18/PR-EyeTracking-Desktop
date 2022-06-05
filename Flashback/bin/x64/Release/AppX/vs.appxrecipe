@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-06-03T18:29:19.014</Modified>
+      <Modified>2022-06-05T20:10:09.690</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -70,19 +70,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\Flashback.dll">
       <PackagePath>Flashback.dll</PackagePath>
-      <Modified>2022-06-03T18:29:18.295</Modified>
+      <Modified>2022-06-05T20:10:08.949</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\Flashback.exe">
       <PackagePath>Flashback.exe</PackagePath>
-      <Modified>2022-06-03T18:29:18.967</Modified>
+      <Modified>2022-06-05T20:10:09.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\Flashback.pdb">
       <PackagePath>Flashback.pdb</PackagePath>
-      <Modified>2022-06-03T18:29:18.967</Modified>
+      <Modified>2022-06-05T20:10:09.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-06-03T18:28:12.392</Modified>
+      <Modified>2022-06-05T20:09:02.071</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

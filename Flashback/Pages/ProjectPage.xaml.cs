@@ -24,10 +24,10 @@ namespace Flashback.Pages
 
         public NavigationLink[] NavigationLinks =
         {
-            new NavigationLink("Videos & Photos", Symbol.SlideShow, new ClipsView()),
-            new NavigationLink("Titles", Symbol.Font, new TitlesView()),
-            new NavigationLink("Preview", Symbol.Play, new PreviewView()),
-            new NavigationLink("Save", Symbol.Save, new SaveView())
+            new NavigationLink("Video", Symbol.SlideShow, new ClipsView()),
+            new NavigationLink("Mapa de Calor", Symbol.BrowsePhotos, new TitlesView()),
+            new NavigationLink("Vista Previa", Symbol.Play, new PreviewView()),
+            new NavigationLink("Guardar", Symbol.Save, new SaveView())
         };
 
         public ProjectPage()
