@@ -16013,11 +16013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas Oropeza\\Documents\\PR-EYE TRACKING\\PR-EYE TRACKING HEATMAPS\\Flashback\\Flashback.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas Oropeza\\Desktop\\EYE TRACKING DESKTOP\\PR-EyeTracking-Desktop\\Flashback\\Flashback.csproj",
       "projectName": "Flashback",
-      "projectPath": "C:\\Users\\Lucas Oropeza\\Documents\\PR-EYE TRACKING\\PR-EYE TRACKING HEATMAPS\\Flashback\\Flashback.csproj",
+      "projectPath": "C:\\Users\\Lucas Oropeza\\Desktop\\EYE TRACKING DESKTOP\\PR-EyeTracking-Desktop\\Flashback\\Flashback.csproj",
       "packagesPath": "C:\\Users\\Lucas Oropeza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucas Oropeza\\Documents\\PR-EYE TRACKING\\PR-EYE TRACKING HEATMAPS\\Flashback\\obj\\",
+      "outputPath": "C:\\Users\\Lucas Oropeza\\Desktop\\EYE TRACKING DESKTOP\\PR-EyeTracking-Desktop\\Flashback\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -16039,8 +16039,8 @@
       "frameworks": {
         "uap10.0.19041": {
           "projectReferences": {
-            "C:\\Users\\Lucas Oropeza\\Documents\\PR-EYE TRACKING\\PR-EYE TRACKING HEATMAPS\\Helpers\\Helpers.csproj": {
-              "projectPath": "C:\\Users\\Lucas Oropeza\\Documents\\PR-EYE TRACKING\\PR-EYE TRACKING HEATMAPS\\Helpers\\Helpers.csproj"
+            "C:\\Users\\Lucas Oropeza\\Desktop\\EYE TRACKING DESKTOP\\PR-EyeTracking-Desktop\\Helpers\\Helpers.csproj": {
+              "projectPath": "C:\\Users\\Lucas Oropeza\\Desktop\\EYE TRACKING DESKTOP\\PR-EyeTracking-Desktop\\Helpers\\Helpers.csproj"
             }
           }
         }

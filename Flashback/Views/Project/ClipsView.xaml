@@ -154,10 +154,10 @@
             <CommandBar
                 Grid.Row="1">
                 <CommandBar.PrimaryCommands>
-                    <AppBarButton x:Name="AddAppBarButton" Icon="Add" Label="Add" Click="AppBarFlyoutButton_Click">
+                    <AppBarButton x:Name="AddAppBarButton" Icon="Add" Label="Añadir" Click="AppBarFlyoutButton_Click">
                         <AppBarButton.Flyout>
                             <MenuFlyout>
-                                <MenuFlyoutItem Text="Slideshow" Click="{x:Bind ProjectViewModel.AddSlideshowClip}"/>
+                                <MenuFlyoutItem Text="Secuencia" Click="{x:Bind ProjectViewModel.AddSlideshowClip}"/>
                                 <MenuFlyoutSeparator/>
                                 <MenuFlyoutItem Text="Video" Click="{x:Bind ProjectViewModel.AddVideoClips}"/>
                             </MenuFlyout>

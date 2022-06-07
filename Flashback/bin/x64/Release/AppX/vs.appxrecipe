@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>47184325-c217-4d78-b3f8-2069a5630ca8</PackageIdentityName>
     <PackageIdentityPublisher>CN=8806B7A2-DCFA-41C1-B10F-FC977C23274C</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\obj\x64\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\obj\x64\Release\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\AppX</LayoutDir>
     <RegisteredManifestChecksum>DC3B71EE93F50C0477D76987CF3AF3CF94047CBCDF6305F86736261E9D7225E4</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>27920MartinBojnansk.flashback_1.0.0.0_x64__jwwdrc0bey20y</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>27920MartinBojnansk.flashback_jwwdrc0bey20y!App</RegisteredUserModeAppID>
@@ -27,62 +27,62 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-05-26T02:51:02.078</Modified>
+      <Modified>2022-06-05T20:10:09.690</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
-      <Modified>2021-05-10T11:57:16.000</Modified>
+      <Modified>2022-06-02T14:53:15.879</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\Assets\Fonts\Flashback.ttf">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\Assets\Fonts\Flashback.ttf">
       <PackagePath>Assets\Fonts\Flashback.ttf</PackagePath>
-      <Modified>2021-05-10T11:57:16.000</Modified>
+      <Modified>2022-06-02T14:53:15.879</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\Assets\Fonts\SignikaBold.ttf">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\Assets\Fonts\SignikaBold.ttf">
       <PackagePath>Assets\Fonts\SignikaBold.ttf</PackagePath>
-      <Modified>2021-05-10T11:57:16.000</Modified>
+      <Modified>2022-06-02T14:53:15.879</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\Assets\Tiles\heatmapLogo.png">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\Assets\Tiles\heatmapLogo.png">
       <PackagePath>Assets\Tiles\heatmapLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-05-26T02:43:52.160</Modified>
+      <Modified>2022-06-02T14:53:15.879</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\Assets\Tiles\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\Assets\Tiles\SplashScreen.png">
       <PackagePath>Assets\Tiles\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-05-26T02:49:36.348</Modified>
+      <Modified>2022-06-02T14:53:15.879</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\Assets\Videos\help.mp4">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\Assets\Videos\help.mp4">
       <PackagePath>Assets\Videos\help.mp4</PackagePath>
-      <Modified>2021-05-10T11:57:16.000</Modified>
+      <Modified>2022-06-02T14:53:15.979</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\Assets\Videos\start.mp4">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\Assets\Videos\start.mp4">
       <PackagePath>Assets\Videos\start.mp4</PackagePath>
-      <Modified>2021-05-10T11:57:16.000</Modified>
+      <Modified>2022-06-02T14:53:16.079</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\ClrCompression.dll">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\ClrCompression.dll">
       <PackagePath>ClrCompression.dll</PackagePath>
       <Modified>2015-07-22T22:49:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\Flashback.dll">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\Flashback.dll">
       <PackagePath>Flashback.dll</PackagePath>
-      <Modified>2022-05-26T02:51:01.319</Modified>
+      <Modified>2022-06-05T20:10:08.949</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\Flashback.exe">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\Flashback.exe">
       <PackagePath>Flashback.exe</PackagePath>
-      <Modified>2022-05-26T02:51:02.032</Modified>
+      <Modified>2022-06-05T20:10:09.638</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\Flashback.pdb">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\Flashback.pdb">
       <PackagePath>Flashback.pdb</PackagePath>
-      <Modified>2022-05-26T02:51:02.030</Modified>
+      <Modified>2022-06-05T20:10:09.636</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-05-26T02:49:53.764</Modified>
+      <Modified>2022-06-05T20:09:02.071</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

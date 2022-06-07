@@ -10,22 +10,22 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>47184325-c217-4d78-b3f8-2069a5630ca8</PackageIdentityName>
     <PackageIdentityPublisher>CN=8806B7A2-DCFA-41C1-B10F-FC977C23274C</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\obj\x64\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\obj\x64\Release\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\ilc\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\ilc\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\Flashback.exe">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\Flashback.exe">
       <PackagePath>Flashback.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lucas Oropeza\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
@@ -346,45 +346,45 @@
     <AppxPackagedFile Include="C:\Users\Lucas Oropeza\.nuget\packages\system.xml.xmlserializer\4.0.10\runtimes\win8-aot\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\bin\x64\Release\Helpers.dll">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Helpers\bin\x64\Release\Helpers.dll">
       <PackagePath>Helpers.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Helpers\bin\x64\Release\Helpers\Helpers.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Helpers\bin\x64\Release\Helpers\Helpers.xr.xml">
       <PackagePath>Helpers\Helpers.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\Flashback.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\Flashback.xr.xml">
       <PackagePath>Flashback.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\Assets\Fonts\SignikaBold.ttf">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\Assets\Fonts\SignikaBold.ttf">
       <PackagePath>Assets\Fonts\SignikaBold.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\Assets\Fonts\Flashback.ttf">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\Assets\Fonts\Flashback.ttf">
       <PackagePath>Assets\Fonts\Flashback.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\Assets\Tiles\heatmapLogo.png">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\Assets\Tiles\heatmapLogo.png">
       <PackagePath>Assets\Tiles\heatmapLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\Assets\Tiles\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\Assets\Tiles\SplashScreen.png">
       <PackagePath>Assets\Tiles\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\Assets\Videos\help.mp4">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\Assets\Videos\help.mp4">
       <PackagePath>Assets\Videos\help.mp4</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\Assets\Videos\start.mp4">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\Assets\Videos\start.mp4">
       <PackagePath>Assets\Videos\start.mp4</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Documents\PR-EYE TRACKING\PR-EYE TRACKING HEATMAPS\Flashback\bin\x64\Release\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Lucas Oropeza\Desktop\EYE TRACKING DESKTOP\PR-EyeTracking-Desktop\Flashback\bin\x64\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
