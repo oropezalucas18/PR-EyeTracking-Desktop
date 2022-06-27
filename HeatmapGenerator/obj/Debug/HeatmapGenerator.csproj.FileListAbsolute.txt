@@ -1,0 +1,53 @@
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\HeatmapGenerator.exe.config
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\HeatmapGenerator.exe
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\HeatmapGenerator.pdb
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\AForge.Imaging.dll
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\AForge.dll
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\AForge.Math.dll
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\AForge.Imaging.xml
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\AForge.xml
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\AForge.Math.xml
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.csproj.AssemblyReference.cache
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\MainWindow.g.cs
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\App.g.cs
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator_MarkupCompile.cache
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator_MarkupCompile.lref
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\MainWindow.baml
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.g.resources
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.Properties.Resources.resources
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.csproj.GenerateResource.cache
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.csproj.CoreCompileInputs.cache
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.csproj.CopyComplete
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.exe
+F:\.Tareas\Universidad\5to Semestre\Proyecto de Sistemas 2\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.pdb
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\HeatmapGenerator.exe.config
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\HeatmapGenerator.exe
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\HeatmapGenerator.pdb
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\AForge.Imaging.dll
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\AForge.dll
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\AForge.Math.dll
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\AForge.Imaging.xml
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\AForge.xml
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\bin\Debug\AForge.Math.xml
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator_MarkupCompile.cache
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator_MarkupCompile.lref
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.g.resources
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.Properties.Resources.resources
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.csproj.CopyComplete
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.exe
+C:\Users\hp\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.pdb
+C:\Users\Lucas Oropeza\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.csproj.AssemblyReference.cache
+C:\Users\Lucas Oropeza\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Oropeza\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\Lucas Oropeza\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\App.g.cs
+C:\Users\Lucas Oropeza\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator_MarkupCompile.cache
+C:\Users\Lucas Oropeza\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator_MarkupCompile.lref
+C:\Users\Lucas Oropeza\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.exe
+C:\Users\Lucas Oropeza\Desktop\EyeTracking-Desktop\HeatmapGenerator\HeatmapGenerator\obj\Debug\HeatmapGenerator.pdb
